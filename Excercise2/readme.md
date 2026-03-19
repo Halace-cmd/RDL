@@ -1,2 +1,0 @@
-# RDL Exercise 2
-
